@@ -594,7 +594,7 @@ VIUTV,http://iptv2.phoves.com.cn/mytv/mytv.php?id=6&t=1633129423&sign=204e76a8f1
 华视,rtmp://59.124.75.157/sat/tv111
 华视,rtmp://59.124.75.138/sat/tv111
 东森财经,rtmp://59.124.75.138/sat/tv571
-东森新闻,http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+东森新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645188130/ei/wj8PYueUN8bLqQHsiLD4CQ/ip/61.228.114.205/id/R2iMq5LKXco.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANdJBfdRZvzji6a8OjAugI5VKTZIaeLEPhTlXK9QlJuBAiEA84VGrg5ZQPTbddVdUa25Ort2ls4f9FXMtvOMm-BpS0s%3D/file/index.m3u8
 东森电影SD,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
 东森洋片SD,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
 公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
