@@ -3,9 +3,9 @@
 http://0/0.m3u8
 #EXTINF:-1 ,纯享4K 20M2160
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 ,CCTV1 4M/8M/4M1080
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 [1080p]
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225762/index.m3u8
-#EXTINF:-1 ,CCTV1 4M1080
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="3" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 [1080p]
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 ,CCTV1 4M1080
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225918/index.m3u8
