@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="= 未分组 =",cctv1[1920x1080]
-http://182.151.211.171:808/hls/1/index.m3u8
+http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 #EXTINF:-1 group-title="= 未分组 =",4[1920x1080]
 http://182.151.211.171:808/hls/4/index.m3u8
 #EXTINF:-1 group-title="= 未分组 =",3[1920x1080]
