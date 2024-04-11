@@ -106,7 +106,6 @@ http://183.142.59.191:8889/udp/233.50.201.73:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://yourhost/iptv-logo/xuandong.png" group-title="卫视标清",哈哈炫动
 http://183.142.59.191:8889/udp/233.50.201.74:5140
 
-
 #EXTINF:-1 tvg-id="97" tvg-name="中国教育一套" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视标清",中国教育一套
 http://183.142.59.191:8889/udp/233.50.201.75:5140
 #EXTINF:-1 tvg-id="97" tvg-name="中国教育四套" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="卫视标清",中国教育四套
